@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.lokirepo" name="[COLOR cyan]Loki[/COLOR]Repo" version="1.0.0" provider-name="TheFantasticLoki">
-    <extension point="xbmc.addon.repository" name="lokirepo">
+    <extension point="xbmc.addon.repository" name="[COLOR cyan]Loki[/COLOR]Repo">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/TheFantasticLoki/repository.lokirepo/master/repo/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/TheFantasticLoki/repository.lokirepo/master/repo/zips/addons.xml.md5</checksum>
