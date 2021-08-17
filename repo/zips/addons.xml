@@ -24,6 +24,7 @@
         <news>
 2.1.1
  - Add First Build: Loki's Custom Build
+ - Added Icon and Fanart
 2.1.0
  - LokiWizard Initial Release. Thanks OpenWizard Team.
 2.0.7
@@ -1172,7 +1173,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
     </extension>
 </addon>
 
-<addon id="repository.lokirepo" name="[COLOR cyan]Loki[/COLOR]Repo" version="1.0.3" provider-name="TheFantasticLoki">
+<addon id="repository.lokirepo" name="[COLOR cyan]Loki[/COLOR]Repo" version="1.0.4" provider-name="[COLOR cyan]TheFantasticLoki[/COLOR]">
     <extension point="xbmc.addon.repository" name="[COLOR cyan]Loki[/COLOR]Repo">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/TheFantasticLoki/repository.lokirepo/master/repo/zips/addons.xml</info>
@@ -1191,6 +1192,10 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
         </assets>
         <source>https://raw.githubusercontent.com/TheFantasticLoki/repository.lokirepo/</source>
         <news>
+            Release 1.0.4:
+            - Updated LokiWizard to V2.1.1
+            - Made my name cyan uwu
+            - Added Icon and Fanart
             Release 1.0.3:
             - Added Common Repositories to Repo.
             - Restructured News Section.

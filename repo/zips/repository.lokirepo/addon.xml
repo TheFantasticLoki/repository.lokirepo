@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.lokirepo" name="[COLOR cyan]Loki[/COLOR]Repo" version="1.0.3" provider-name="TheFantasticLoki">
+<addon id="repository.lokirepo" name="[COLOR cyan]Loki[/COLOR]Repo" version="1.0.4" provider-name="[COLOR cyan]TheFantasticLoki[/COLOR]">
     <extension point="xbmc.addon.repository" name="[COLOR cyan]Loki[/COLOR]Repo">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/TheFantasticLoki/repository.lokirepo/master/repo/zips/addons.xml</info>
@@ -18,6 +18,10 @@
         </assets>
         <source>https://raw.githubusercontent.com/TheFantasticLoki/repository.lokirepo/</source>
         <news>
+            Release 1.0.4:
+            - Updated LokiWizard to V2.1.1
+            - Made my name cyan uwu
+            - Added Icon and Fanart
             Release 1.0.3:
             - Added Common Repositories to Repo.
             - Restructured News Section.
