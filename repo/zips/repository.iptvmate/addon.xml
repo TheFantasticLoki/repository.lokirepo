@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.iptvmate" name="IPTVMate Repo" version="1.0.3" provider-name="IPTVMate">
+	<extension point="xbmc.addon.repository" name="IPTVMate Repo">
+		<dir>
+			<info compressed="false">https://repo.iptvmate.net/new/addons.xml</info>
+			<checksum>https://repo.iptvmate.net/new/addons.xml.md5</checksum>
+			<datadir zip="true">https://repo.iptvmate.net/new/</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>IPTVMate</summary>
+		<description>IPTVMate Repository</description>
+		<platform>all</platform>
+	</extension>
+</addon>

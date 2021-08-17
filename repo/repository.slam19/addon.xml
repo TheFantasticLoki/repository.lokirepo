@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.slam19" name="Slam19 Repo" version="1.4" provider-name="Slamious">
+	<extension point="xbmc.addon.repository" name="Slamious 19 Repo">
+		<info compressed="false">http://slamiousbuilds.com/19repo/addons.xml</info>
+		<checksum>http://slamiousbuilds.com/19repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://slamiousbuilds.com/19repo/zips/</datadir>
+		<dir>
+    <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+    </dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Slam19 Repo</summary>
+		<description>Repo for Kodi 19</description>
+		<platform>all</platform>
+		<assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+     </assets>
+	</extension>
+</addon>
