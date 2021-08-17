@@ -1,0 +1,3 @@
+[submodule "repo/plugin.program.lokiwizard"]
+	path = repo/plugin.program.lokiwizard
+	url = https://github.com/TheFantasticLoki/plugin.program.lokiwizard.git
