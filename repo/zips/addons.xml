@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.lokiwizard" name="[COLOR cyan]Loki[/COLOR]Wizard" version="2.1.4" provider-name="[COLOR cyan]The Fantastic Loki[/COLOR] ,drinfernoo, slamious">
+<addon id="plugin.program.lokiwizard" name="[COLOR cyan]Loki[/COLOR]Wizard" version="2.1.5" provider-name="[COLOR cyan]The Fantastic Loki[/COLOR] ,drinfernoo, slamious">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
@@ -22,6 +22,8 @@
         <reuselanguageinvoker>false</reuselanguageinvoker>
         <source>https://github.com/TheFantasticLoki/plugin.program.lokiwizard/</source>
         <news>
+2.1.5
+- Fixed invalid Link???
 2.1.4
  - Added Touchscreen Build to Build List.
  - Added Additional Files for Touchscreen Build.
@@ -1181,7 +1183,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
     </extension>
 </addon>
 
-<addon id="repository.lokirepo" name="[COLOR cyan]Loki[/COLOR]Repo" version="1.0.7" provider-name="[COLOR cyan]TheFantasticLoki[/COLOR]">
+<addon id="repository.lokirepo" name="[COLOR cyan]Loki[/COLOR]Repo" version="1.0.8" provider-name="[COLOR cyan]TheFantasticLoki[/COLOR]">
     <extension point="xbmc.addon.repository" name="[COLOR cyan]Loki[/COLOR]Repo">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/TheFantasticLoki/repository.lokirepo/master/repo/zips/addons.xml</info>
@@ -1200,6 +1202,8 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
         </assets>
         <source>https://raw.githubusercontent.com/TheFantasticLoki/repository.lokirepo/</source>
         <news>
+            Release 1.0.8:
+            -Fix LokiWizard
             Release 1.0.7:
             - Added Touchscreen Build to LokiWizard
             - Updated LokiWizard to 2.1.4

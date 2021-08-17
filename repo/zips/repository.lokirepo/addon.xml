@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.lokirepo" name="[COLOR cyan]Loki[/COLOR]Repo" version="1.0.7" provider-name="[COLOR cyan]TheFantasticLoki[/COLOR]">
+<addon id="repository.lokirepo" name="[COLOR cyan]Loki[/COLOR]Repo" version="1.0.8" provider-name="[COLOR cyan]TheFantasticLoki[/COLOR]">
     <extension point="xbmc.addon.repository" name="[COLOR cyan]Loki[/COLOR]Repo">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/TheFantasticLoki/repository.lokirepo/master/repo/zips/addons.xml</info>
@@ -18,6 +18,8 @@
         </assets>
         <source>https://raw.githubusercontent.com/TheFantasticLoki/repository.lokirepo/</source>
         <news>
+            Release 1.0.8:
+            -Fix LokiWizard
             Release 1.0.7:
             - Added Touchscreen Build to LokiWizard
             - Updated LokiWizard to 2.1.4
