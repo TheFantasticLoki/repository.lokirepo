@@ -1170,7 +1170,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
     </extension>
 </addon>
 
-<addon id="repository.lokirepo" name="[COLOR cyan]Loki[/COLOR]Repo" version="1.0.2" provider-name="TheFantasticLoki">
+<addon id="repository.lokirepo" name="[COLOR cyan]Loki[/COLOR]Repo" version="1.0.3" provider-name="TheFantasticLoki">
     <extension point="xbmc.addon.repository" name="[COLOR cyan]Loki[/COLOR]Repo">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/TheFantasticLoki/repository.lokirepo/master/repo/zips/addons.xml</info>
@@ -1189,12 +1189,15 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
         </assets>
         <source>https://raw.githubusercontent.com/TheFantasticLoki/repository.lokirepo/</source>
         <news>
-            Release 1.0.0:
-            - Initial Repo Release.
-            Release 1.0.1:
-            - Added [COLOR cyan]Loki[/COLOR]Wizard to repository.
+            Release 1.0.3:
+            - Added Common Repositories to Repo.
+            - Restructured News Section.
             Release 1.0.2:
             - Fix Repo DataDir
+            Release 1.0.1:
+            - Added [COLOR cyan]Loki[/COLOR]Wizard to repository.
+            Release 1.0.0:
+            - Initial Repo Release.
         </news>
     </extension>
 </addon>
